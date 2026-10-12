@@ -1,0 +1,106 @@
+{
+  "outDir": "..",
+  "brand": {
+    "name": "Vanilla",
+    "tagline": "Arabic-first cosmetics and beauty shopping app for Iraq, live on Google Play and the App Store.",
+    "accent": "#AD2A89",
+    "accent2": "#691398",
+    "logo": "D:/shaker-github/_store/com.vanilia.vanilia/icon.png",
+    "dark": true
+  },
+  "images": [
+    {
+      "type": "banner",
+      "file": "banner.png",
+      "kicker": "Client project · Beauty e-commerce",
+      "subtitle": "Cosmetics, skincare and perfumes, Arabic-first for Iraq. 100K+ installs on Google Play.",
+      "screens": [
+        "D:/shaker-github/_store/com.vanilia.vanilia/shot_09.png",
+        "D:/shaker-github/_work/vanilla-padded/ios_shot_02.png",
+        "D:/shaker-github/_work/vanilla-padded/ios_shot_03.png"
+      ],
+      "devices": [
+        "android",
+        "iphone",
+        "iphone"
+      ],
+      "chips": [
+        "Flutter",
+        "WooCommerce",
+        "OneSignal",
+        "Firebase",
+        "Shorebird"
+      ]
+    },
+    {
+      "type": "devices",
+      "file": "screens-app.png",
+      "title": "Splash, home, categories and search on Android and iPhone",
+      "screens": [
+        "D:/shaker-github/_store/com.vanilia.vanilia/shot_08.png",
+        "D:/shaker-github/_work/vanilla-padded/ios_shot_02.png",
+        "D:/shaker-github/_store/com.vanilia.vanilia/shot_09.png",
+        "D:/shaker-github/_work/vanilla-padded/ios_shot_01.png",
+        "D:/shaker-github/_work/vanilla-padded/ios_shot_03.png"
+      ],
+      "devices": [
+        "android",
+        "iphone",
+        "android",
+        "iphone",
+        "iphone"
+      ],
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "type": "gallery",
+      "file": "store-listing.png",
+      "title": "Store listing (Google Play)",
+      "device": "card",
+      "cardRatio": 1.78,
+      "cols": 6,
+      "screens": [
+        "D:/shaker-github/_store/com.vanilia.vanilia/shot_03.png",
+        "D:/shaker-github/_store/com.vanilia.vanilia/shot_04.png",
+        "D:/shaker-github/_store/com.vanilia.vanilia/shot_05.png",
+        "D:/shaker-github/_store/com.vanilia.vanilia/shot_01.png",
+        "D:/shaker-github/_store/com.vanilia.vanilia/shot_02.png",
+        "D:/shaker-github/_store/com.vanilia.vanilia/shot_06.png"
+      ]
+    },
+    {
+      "type": "gallery",
+      "file": "screens-ipad.png",
+      "title": "iPad layout",
+      "device": "card",
+      "cardRatio": 1.34,
+      "cols": 3,
+      "screens": [
+        "D:/shaker-github/_store/ios_vanilla/ipad_shot_01.png",
+        "D:/shaker-github/_store/ios_vanilla/ipad_shot_02.png",
+        "D:/shaker-github/_store/ios_vanilla/ipad_shot_03.png"
+      ]
+    },
+    {
+      "type": "feature",
+      "file": "feature-arabic-first.png",
+      "kicker": "Signature feature",
+      "title": "Arabic-first beauty shopping for Iraq",
+      "points": [
+        "Right-to-left UI with Arabic as the default language, English available",
+        "Prices in Iraqi dinar (IQD)",
+        "Shop by category, brand, offers and best sellers",
+        "Cart, wishlist, saved addresses and order history"
+      ],
+      "screens": [
+        "D:/shaker-github/_work/vanilla-padded/ios_shot_02.png",
+        "D:/shaker-github/_store/com.vanilia.vanilia/shot_09.png"
+      ],
+      "devices": [
+        "iphone",
+        "android"
+      ]
+    }
+  ]
+}

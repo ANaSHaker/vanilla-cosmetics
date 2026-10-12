@@ -1,0 +1,6 @@
+{
+  "name": "vanilla-cosmetics",
+  "description": "Vanilla (ڤانيلا): an Arabic-first cosmetics and beauty shopping app for Iraq, built with Flutter on a WooCommerce store. 100K+ installs on Google Play, live on the App Store. Full mobile delivery from brand UX to store releases",
+  "topics": ["flutter", "woocommerce", "ecommerce", "iraq", "cosmetics", "android", "ios", "arabic", "rtl", "onesignal"],
+  "homepage": "https://play.google.com/store/apps/details?id=com.vanilia.vanilia"
+}
